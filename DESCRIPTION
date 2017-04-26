@@ -1,0 +1,9 @@
+Package: GSEAlite
+Type: Package
+Title: GSEA lite performs simple GSEA analysis with few useful functions
+Version: 1.0
+Date: 2014-04-08
+Author: Ir. Maxime Tarabichi
+Maintainer: <maxime.tarabichi@ulb.ac.be>
+Description: simple GSEA analysis for geneset or list of genesets. Two metrics are availabe, i.e. signal-to-noise and fold changes. The test is available for paired or unpaired data.
+License: GNU GPLv3.0
